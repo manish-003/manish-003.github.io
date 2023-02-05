@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manish</title>
-    <link>https://www.snmanish.me/</link>
+    <link>https://manish-003.github.io/profile-site/</link>
     <description>Recent content on Manish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.snmanish.me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://manish-003.github.io/profile-site/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
